@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apoorv1210
-- 👀 I’m interested in Competetive Programming , Data Science ,ML/AI, Web Dev and stuff !!!
-- 🌱 I’m currently learning DSA in C/C++ .
+- 👀 I’m interested in Data Science ,ML/AI, MERN STACK WEB DEV and stuff !!!
+- 🌱 I’m currently learning DSA in JAVA.
 
 
 <!---
