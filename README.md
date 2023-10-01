@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Apoorv1210
-- 👀 I’m interested in Data Science ,ML/AI, MERN STACK WEB DEV and stuff !!!
-- 🌱 I’m currently learning DSA in JAVA.
+- 👀 I’m interested in Data Science ,ML/AI and stuff !!!
 
 
 <!---
